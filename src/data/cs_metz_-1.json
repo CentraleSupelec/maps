@@ -1,0 +1,1269 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220261813864141,
+                            49.10355883624524
+                        ],
+                        [
+                            6.220435104770445,
+                            49.10360001136456
+                        ],
+                        [
+                            6.22038003528769,
+                            49.10369966144694
+                        ],
+                        [
+                            6.2202064941659785,
+                            49.103658602794724
+                        ],
+                        [
+                            6.220261813864141,
+                            49.10355883624524
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b27971bd7590016fadf2c",
+                "name": "FS01",
+                "alias": "fs01",
+                "floor": -1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "computer_room.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#788491",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#788491",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Computer room",
+                "translations": [
+                    {
+                        "title": "FS01",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220309052390479,
+                    49.10361518961934
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.220447384855305,
+                    49.1035786854855
+                ]
+            },
+            "properties": {
+                "id": "5f1b27fff2c16600160ffdc1",
+                "name": "Smart Entrée/Sortie",
+                "alias": "smart_entr_e_sortie",
+                "floor": -1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "entranceexit.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#5AA971",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#5AA971",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Entrance-Exit",
+                "translations": [
+                    {
+                        "title": "Smart Entrée/Sortie",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220447384855305,
+                    49.1035786854855
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220764008081147,
+                            49.10286596367419
+                        ],
+                        [
+                            6.2210067922062535,
+                            49.102923364239444
+                        ],
+                        [
+                            6.220815604608191,
+                            49.103268848330714
+                        ],
+                        [
+                            6.220573091764493,
+                            49.103211501429456
+                        ],
+                        [
+                            6.220764008081147,
+                            49.10286596367419
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b2936f2c16600160ffdd7",
+                "name": "Gymnase",
+                "alias": "gymnase",
+                "floor": -1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "gym.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#E2BA49",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#E2BA49",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Gym",
+                "translations": [
+                    {
+                        "title": "Gymnase",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220784700948246,
+                    49.1030271282696
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.221026418739058,
+                            49.10316283749569
+                        ],
+                        [
+                            6.220998141268467,
+                            49.103214943263055
+                        ],
+                        [
+                            6.221058801001817,
+                            49.10322882817195
+                        ],
+                        [
+                            6.221087534560155,
+                            49.10317717031984
+                        ],
+                        [
+                            6.221026418739058,
+                            49.10316283749569
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b29e486f20d0016c36ffc",
+                "name": "Vestiaire H",
+                "alias": "vestiaire_h",
+                "floor": -1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "men_restroom.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#336AB0",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#336AB0",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Men's restroom",
+                "translations": [
+                    {
+                        "title": "Vestiaire H",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.221039462861711,
+                    49.10318932334924
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.221086676761587,
+                            49.103054000857355
+                        ],
+                        [
+                            6.2211476749616,
+                            49.10306823220503
+                        ],
+                        [
+                            6.221116999857458,
+                            49.10312346042653
+                        ],
+                        [
+                            6.221056579198262,
+                            49.1031093110536
+                        ],
+                        [
+                            6.221086676761587,
+                            49.103054000857355
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b2aac1bd7590016fadf5e",
+                "name": "Vestiaire F",
+                "alias": "vestiaire_f",
+                "floor": -1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "women_restroom.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#336ab0",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#336ab0",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Women's restroom",
+                "translations": [
+                    {
+                        "title": "Vestiaire F",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.221098921508099,
+                    49.10308180107997
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.221042161637769,
+                            49.10313521231561
+                        ],
+                        [
+                            6.221027074212287,
+                            49.10316286995007
+                        ],
+                        [
+                            6.221087423915094,
+                            49.10317724752372
+                        ],
+                        [
+                            6.22110267897952,
+                            49.10314958989724
+                        ],
+                        [
+                            6.221042161637769,
+                            49.10313521231561
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b2b0f86f20d0016c37014",
+                "name": "Douches H",
+                "alias": "douches_h",
+                "floor": -1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "men_restroom.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#336AB0",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#336AB0",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Men's restroom",
+                "translations": [
+                    {
+                        "title": "Douches H",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.221060300076488,
+                    49.10315202640045
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.221056620111028,
+                            49.103109332713075
+                        ],
+                        [
+                            6.221042370876006,
+                            49.10313512456872
+                        ],
+                        [
+                            6.221102888216649,
+                            49.103149392397995
+                        ],
+                        [
+                            6.22111680217597,
+                            49.10312371030258
+                        ],
+                        [
+                            6.221056620111028,
+                            49.103109332713075
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b2b38f2c16600160ffdfe",
+                "name": "Douches F",
+                "alias": "douches_f",
+                "floor": -1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "women_restroom.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#336ab0",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#336ab0",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Women's restroom",
+                "translations": [
+                    {
+                        "title": "Douches F",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.221075060298136,
+                    49.10312537853909
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.221018283651631,
+                            49.10313937241398
+                        ],
+                        [
+                            6.2209659805762385,
+                            49.10312675087059
+                        ],
+                        [
+                            6.2209559222922906,
+                            49.103145847813636
+                        ],
+                        [
+                            6.221008225367626,
+                            49.10315824984744
+                        ],
+                        [
+                            6.221018283651631,
+                            49.10313937241398
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b2f3c1bd7590016fae0f3",
+                "name": "WC_SSh",
+                "alias": "wc_ssh",
+                "floor": -1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "men_restroom.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#336AB0",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#336AB0",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Men's restroom",
+                "translations": [
+                    {
+                        "title": "WC_SSh",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220993339107883,
+                    49.10314191867192
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220985091304357,
+                            49.103092343430035
+                        ],
+                        [
+                            6.220974697744623,
+                            49.103111220880976
+                        ],
+                        [
+                            6.221027168457823,
+                            49.10312340341821
+                        ],
+                        [
+                            6.221037729656473,
+                            49.1031047454772
+                        ],
+                        [
+                            6.220985091304357,
+                            49.103092343430035
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b2f8e1bd7590016fae0f6",
+                "name": "WC_SSf",
+                "alias": "wc_ssf",
+                "floor": -1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "women_restroom.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#336ab0",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#336ab0",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Women's restroom",
+                "translations": [
+                    {
+                        "title": "WC_SSf",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.221001955693526,
+                    49.10310481132729
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220971693210231,
+                            49.102852718419825
+                        ],
+                        [
+                            6.221000341373639,
+                            49.102800667550866
+                        ],
+                        [
+                            6.221013607565709,
+                            49.102803453442505
+                        ],
+                        [
+                            6.221021367036371,
+                            49.10278952398289
+                        ],
+                        [
+                            6.2210318798677235,
+                            49.10279149049492
+                        ],
+                        [
+                            6.221047398809986,
+                            49.10276281218384
+                        ],
+                        [
+                            6.221205903489249,
+                            49.102800503679276
+                        ],
+                        [
+                            6.221212912044308,
+                            49.10278854073101
+                        ],
+                        [
+                            6.221244450538393,
+                            49.10279591515152
+                        ],
+                        [
+                            6.2212750009926765,
+                            49.1027397234007
+                        ],
+                        [
+                            6.221005340249349,
+                            49.10267891588708
+                        ],
+                        [
+                            6.22089064076431,
+                            49.10288605700006
+                        ],
+                        [
+                            6.2210275153034615,
+                            49.102918584126286
+                        ],
+                        [
+                            6.220968201205835,
+                            49.10302566543416
+                        ],
+                        [
+                            6.221068321005845,
+                            49.1030494307802
+                        ],
+                        [
+                            6.22109905856982,
+                            49.102994339397014
+                        ],
+                        [
+                            6.221064860404766,
+                            49.10298621768459
+                        ],
+                        [
+                            6.2211190405506045,
+                            49.10288771211742
+                        ],
+                        [
+                            6.220971693210231,
+                            49.102852718419825
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b320286f20d0016c37387",
+                "name": "CROUS",
+                "alias": "crous",
+                "floor": -1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "restaurant.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#d0b497",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#d0b497",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Restaurant",
+                "translations": [
+                    {
+                        "title": "CROUS",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.221065222431185,
+                    49.10285289420443
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220643657078909,
+                            49.10344528215742
+                        ],
+                        [
+                            6.220722782244479,
+                            49.103463720467005
+                        ],
+                        [
+                            6.2207390431372005,
+                            49.10343463622564
+                        ],
+                        [
+                            6.220659582694736,
+                            49.103415978401614
+                        ],
+                        [
+                            6.220643657078909,
+                            49.10344528215742
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b3281f2c16600161002d4",
+                "name": "AS03",
+                "alias": "as03",
+                "floor": -1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "office.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#706655",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#706655",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Office",
+                "translations": [
+                    {
+                        "title": "AS03",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220681744446847,
+                    49.103440979881825
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2212486016879325,
+                    49.10272988863363
+                ]
+            },
+            "properties": {
+                "id": "5f1b35a31bd7590016fae1d1",
+                "name": "Entrée CROUS",
+                "alias": "entr_e_crous",
+                "floor": -1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "entranceexit.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#5AA971",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#5AA971",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Entrance-Exit",
+                "translations": [
+                    {
+                        "title": "Entrée CROUS",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.2212486016879325,
+                    49.10272988863363
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.220963925716717,
+                    49.10274804137575
+                ]
+            },
+            "properties": {
+                "id": "5f1b369f1bd7590016fae1e9",
+                "name": "Porte Terrasse",
+                "alias": "porte_terrasse",
+                "floor": -1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "entranceexit.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#5AA971",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#5AA971",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Entrance-Exit",
+                "translations": [
+                    {
+                        "title": "Porte Terrasse",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220963925716717,
+                    49.10274804137575
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.220893574778557,
+                    49.10287625974209
+                ]
+            },
+            "properties": {
+                "id": "5f1b36c6f2c1660016100386",
+                "name": "Porte Terrasse 2",
+                "alias": "porte_terrasse_2",
+                "floor": -1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "entranceexit.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#5AA971",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#5AA971",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Entrance-Exit",
+                "translations": [
+                    {
+                        "title": "Porte Terrasse 2",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220893574778557,
+                    49.10287625974209
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.22076371863119,
+                    49.10285386323261
+                ]
+            },
+            "properties": {
+                "id": "5f1b37451bd7590016fae1f9",
+                "name": "Porte Sport 1",
+                "alias": "porte_sport_1",
+                "floor": -1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "entranceexit.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#5AA971",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#5AA971",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Entrance-Exit",
+                "translations": [
+                    {
+                        "title": "Porte Sport 1",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.22076371863119,
+                    49.10285386323261
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.220561133305495,
+                    49.10322107209126
+                ]
+            },
+            "properties": {
+                "id": "5f1b3766f2c1660016100398",
+                "name": "Porte Sport 2",
+                "alias": "porte_sport_2",
+                "floor": -1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "entranceexit.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#5AA971",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#5AA971",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Entrance-Exit",
+                "translations": [
+                    {
+                        "title": "Porte Sport 2",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220561133305495,
+                    49.10322107209126
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2205856474895995,
+                    49.10340347486047
+                ]
+            },
+            "properties": {
+                "id": "5f1b379aab55a90016545857",
+                "name": "Sortie Amphi D",
+                "alias": "sortie_amphi_d",
+                "floor": -1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "entranceexit.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#5AA971",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#5AA971",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Entrance-Exit",
+                "translations": [
+                    {
+                        "title": "Sortie Amphi D",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.2205856474895995,
+                    49.10340347486047
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2205459955062565,
+                    49.10334780159701
+                ]
+            },
+            "properties": {
+                "id": "5f1b37b4f50324001649eb57",
+                "name": "Sortie Amphi G",
+                "alias": "sortie_amphi_g",
+                "floor": -1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "entranceexit.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#5AA971",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#5AA971",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Entrance-Exit",
+                "translations": [
+                    {
+                        "title": "Sortie Amphi G",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.2205459955062565,
+                    49.10334780159701
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220341451336225,
+                            49.10345570472771
+                        ],
+                        [
+                            6.22040034273752,
+                            49.10346931954524
+                        ],
+                        [
+                            6.220420769338233,
+                            49.10343074603887
+                        ],
+                        [
+                            6.22036288304281,
+                            49.103417340826496
+                        ],
+                        [
+                            6.220341451336225,
+                            49.10345570472771
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f841cc0cfbbe90016085290",
+                "name": "FS05",
+                "alias": "fs05",
+                "floor": -1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "auditorium.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#f6a657",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#f6a657",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Auditorium",
+                "translations": [
+                    {
+                        "title": "FS05",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220373379558202,
+                    49.103445763173205
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220341409954955,
+                            49.103456096004265
+                        ],
+                        [
+                            6.220305222882359,
+                            49.103520730064446
+                        ],
+                        [
+                            6.220438025926484,
+                            49.10355178198506
+                        ],
+                        [
+                            6.22049494151679,
+                            49.10344804549277
+                        ],
+                        [
+                            6.220419988581426,
+                            49.10343126493237
+                        ],
+                        [
+                            6.220400082199546,
+                            49.103469206834944
+                        ],
+                        [
+                            6.220341409954955,
+                            49.103456096004265
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f841d191bfd8f001658efa2",
+                "name": "FS03-FS04",
+                "alias": "fs03-fs04",
+                "floor": -1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "computer_room.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#788491",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#788491",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Computer room",
+                "translations": [
+                    {
+                        "title": "FS03-FS04",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.2203915830023595,
+                    49.10347617447402
+                ],
+                "building": "metz"
+            }
+        }
+    ]
+}

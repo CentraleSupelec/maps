@@ -1,0 +1,1493 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.6231450671979157,
+                            48.1258017719027
+                        ],
+                        [
+                            -1.623110169127542,
+                            48.12577667507932
+                        ],
+                        [
+                            -1.6231638584665766,
+                            48.125743511401076
+                        ],
+                        [
+                            -1.62319875653695,
+                            48.125766815609644
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "703321cf-6580-513a-95a2-602f0101c89a",
+                "name": "105",
+                "alias": "105",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "meeting_room.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#F7A363",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#F7A363",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "meeting_room",
+                "translations": [
+                    {
+                        "title": "105",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    -1.623154462832246,
+                    48.125772193498186
+                ],
+                "building": "rennes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.6228860161370728,
+                            48.125466549035664
+                        ],
+                        [
+                            -1.6228256156306566,
+                            48.12550329817333
+                        ],
+                        [
+                            -1.622753135022961,
+                            48.12545758582737
+                        ],
+                        [
+                            -1.6228027976615826,
+                            48.12542531826458
+                        ],
+                        [
+                            -1.6228403801989046,
+                            48.12545220790165
+                        ],
+                        [
+                            -1.6228551447671327,
+                            48.125442348369695
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "9c003be6-c5e3-5e73-a6df-698324dc2f9a",
+                "name": "114",
+                "alias": "114",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "classroom.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#9d5452",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#9d5452",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "classroom",
+                "translations": [
+                    {
+                        "title": "114",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    -1.6228271815697186,
+                    48.125457884595384
+                ],
+                "building": "rennes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.6226215961423331,
+                            48.12542621458601
+                        ],
+                        [
+                            -1.622569249036783,
+                            48.12545848214829
+                        ],
+                        [
+                            -1.6225397199003069,
+                            48.125437866763626
+                        ],
+                        [
+                            -1.622592067005857,
+                            48.12540559918845
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "9e8d055e-eb7c-5a46-8c89-1a8cb0306dfa",
+                "name": "155",
+                "alias": "155",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "room.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#8b72a2",
+                    "fillOpacity": 0.1,
+                    "stroke": true,
+                    "color": "#8b72a2",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "room",
+                "translations": [
+                    {
+                        "title": "155",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    -1.62258065802132,
+                    48.12543204067159
+                ],
+                "building": "rennes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.6226793121818008,
+                            48.125390361715326
+                        ],
+                        [
+                            -1.6226229383758175,
+                            48.12542531826458
+                        ],
+                        [
+                            -1.6225934092393417,
+                            48.12540470286661
+                        ],
+                        [
+                            -1.6226497830453246,
+                            48.125369746303306
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "1873afee-7a85-55da-80fd-83ef72c054e5",
+                "name": "156",
+                "alias": "156",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "room.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#8b72a2",
+                    "fillOpacity": 0.1,
+                    "stroke": true,
+                    "color": "#8b72a2",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "room",
+                "translations": [
+                    {
+                        "title": "156",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    -1.6226363607105712,
+                    48.12539753228746
+                ],
+                "building": "rennes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.622710183551741,
+                            48.12537153894817
+                        ],
+                        [
+                            -1.6226806544152652,
+                            48.12538856907112
+                        ],
+                        [
+                            -1.6226524675122733,
+                            48.12536705733592
+                        ],
+                        [
+                            -1.6226793121818008,
+                            48.12535002720585
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "1eda2c12-9513-586f-ae5a-57a4ea3965fa",
+                "name": "sanitaires 1",
+                "alias": "sanitaires_1",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "menwomen_restroom.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#336AB0",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#336AB0",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "menwomen_restroom",
+                "translations": [
+                    {
+                        "title": "sanitaires 1",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    -1.62268065441527,
+                    48.12536929814027
+                ],
+                "building": "rennes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.6226551519792223,
+                            48.12533837500831
+                        ],
+                        [
+                            -1.6225813291380622,
+                            48.1252872845726
+                        ],
+                        [
+                            -1.6225222708651301,
+                            48.12532493016176
+                        ],
+                        [
+                            -1.6225960937062904,
+                            48.12537691688233
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "fa8d878c-016e-54db-8462-497df7aa9136",
+                "name": "154",
+                "alias": "154",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "classroom.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#9d5452",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#9d5452",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "classroom",
+                "translations": [
+                    {
+                        "title": "154",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    -1.6225887114221762,
+                    48.12533187665625
+                ],
+                "building": "rennes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.6225934092393417,
+                            48.12537691688233
+                        ],
+                        [
+                            -1.6224981106625513,
+                            48.12543697044237
+                        ],
+                        [
+                            -1.6224242878213915,
+                            48.1253858801047
+                        ],
+                        [
+                            -1.6225195863981614,
+                            48.12532582648494
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "f8aeb719-b815-5adb-afda-050d3eaa94a7",
+                "name": "153",
+                "alias": "153",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "technical_room.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#808080",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#808080",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "technical_room",
+                "translations": [
+                    {
+                        "title": "153",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    -1.6225088485303616,
+                    48.12538139847858
+                ],
+                "building": "rennes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.622319593610271,
+                            48.125394843325516
+                        ],
+                        [
+                            -1.6222148993991505,
+                            48.12546027479002
+                        ],
+                        [
+                            -1.6222820110729488,
+                            48.12550777977367
+                        ],
+                        [
+                            -1.622385363050585,
+                            48.12544145204849
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "f1e5b88e-4cec-5f0a-93e5-eae84c3addb1",
+                "name": "152",
+                "alias": "152",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "technical_room.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#808080",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#808080",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "technical_room",
+                "translations": [
+                    {
+                        "title": "152",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    -1.6223004667832388,
+                    48.12545108748442
+                ],
+                "building": "rennes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.6223518072136958,
+                            48.1255552847134
+                        ],
+                        [
+                            -1.6222846955398973,
+                            48.125508676093695
+                        ],
+                        [
+                            -1.622389389751018,
+                            48.12544414101201
+                        ],
+                        [
+                            -1.6224551591913319,
+                            48.1254898533699
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "a4d2c0eb-464c-5782-97c2-2994246831ab",
+                "name": "151",
+                "alias": "151",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "technical_room.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#808080",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#808080",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "technical_room",
+                "translations": [
+                    {
+                        "title": "151",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    -1.6223702629239858,
+                    48.12549948879726
+                ],
+                "building": "rennes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.622938967564436,
+                            48.125303953090246
+                        ],
+                        [
+                            -1.6227966908160132,
+                            48.12539179272682
+                        ],
+                        [
+                            -1.6226906543714081,
+                            48.12531560529559
+                        ],
+                        [
+                            -1.622693338838357,
+                            48.12527078910677
+                        ],
+                        [
+                            -1.6228047442168596,
+                            48.12519908312332
+                        ],
+                        [
+                            -1.622938967564436,
+                            48.12529140455845
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "7b24de1e-54fd-5abf-8747-bfdbdf5823f1",
+                "name": "Amphitéâtre",
+                "alias": "amphit_tre",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "classroom.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#9d5452",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#9d5452",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "classroom",
+                "translations": [
+                    {
+                        "title": "Amphitéâtre",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    -1.6228105605619183,
+                    48.12529543798354
+                ],
+                "building": "rennes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.6229054117275468,
+                            48.12536400673557
+                        ],
+                        [
+                            -1.6228557490889455,
+                            48.125394481692936
+                        ],
+                        [
+                            -1.6228289044194177,
+                            48.12537565892728
+                        ],
+                        [
+                            -1.622877224824555,
+                            48.12534518395878
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "a80dc15d-7425-5584-9780-6dd0f65c6505",
+                "name": "sanitaires 2",
+                "alias": "sanitaires_2",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "menwomen_restroom.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#336AB0",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#336AB0",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "menwomen_restroom",
+                "translations": [
+                    {
+                        "title": "sanitaires 2",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    -1.6228668225151164,
+                    48.125369832828646
+                ],
+                "building": "rennes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.6228678291902245,
+                            48.12520087577414
+                        ],
+                        [
+                            -1.6228369578202841,
+                            48.125218802278766
+                        ],
+                        [
+                            -1.6228812515249882,
+                            48.12525017364679
+                        ],
+                        [
+                            -1.6229121228949286,
+                            48.1252322471531
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "e6dadfce-e83f-5113-aa79-b5f486e91434",
+                "name": "sanitaires 3",
+                "alias": "sanitaires_3",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "menwomen_restroom.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#336AB0",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#336AB0",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "menwomen_restroom",
+                "translations": [
+                    {
+                        "title": "sanitaires 3",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    -1.6228745403576064,
+                    48.125225524713194
+                ],
+                "building": "rennes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.6230436617755564,
+                            48.12508166435927
+                        ],
+                        [
+                            -1.622972523401345,
+                            48.12512558438638
+                        ],
+                        [
+                            -1.622906753961031,
+                            48.12507807904927
+                        ],
+                        [
+                            -1.6229778923352423,
+                            48.12503415898149
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "15b1da7b-7109-537b-b8dd-272645746cca",
+                "name": "121",
+                "alias": "121",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "classroom.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#9d5452",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#9d5452",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "classroom",
+                "translations": [
+                    {
+                        "title": "121",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    -1.6229752078682935,
+                    48.125079871694105
+                ],
+                "building": "rennes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.622972523401345,
+                            48.12512827336644
+                        ],
+                        [
+                            -1.6229054117275468,
+                            48.125080768031765
+                        ],
+                        [
+                            -1.622832931119851,
+                            48.12512558438638
+                        ],
+                        [
+                            -1.622901385027114,
+                            48.125171297027826
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "1e952354-8a8c-597f-8870-b73d85bd4532",
+                "name": "119",
+                "alias": "119",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "classroom.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#9d5452",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#9d5452",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "classroom",
+                "translations": [
+                    {
+                        "title": "119",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    -1.6229030628189642,
+                    48.12512648070311
+                ],
+                "building": "rennes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.623027554973844,
+                            48.12516323009407
+                        ],
+                        [
+                            -1.622953732132684,
+                            48.12520715005146
+                        ],
+                        [
+                            -1.6230221860399465,
+                            48.125254655269195
+                        ],
+                        [
+                            -1.6230933244141776,
+                            48.125209839027214
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "9041ce68-5c60-5412-811b-696bbe8873fa",
+                "name": "118",
+                "alias": "118",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "classroom.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#9d5452",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#9d5452",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "classroom",
+                "translations": [
+                    {
+                        "title": "118",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    -1.623024199390163,
+                    48.12520871861048
+                ],
+                "building": "rennes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.6230113488229228,
+                            48.12543752096904
+                        ],
+                        [
+                            -1.6229469216160732,
+                            48.12539180856456
+                        ],
+                        [
+                            -1.6228959167439874,
+                            48.12542407614841
+                        ],
+                        [
+                            -1.6229603439508367,
+                            48.1254688922035
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "74f79724-00ca-53f1-b354-0301c8cfd47d",
+                "name": "116",
+                "alias": "116",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "classroom.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#9d5452",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#9d5452",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "classroom",
+                "translations": [
+                    {
+                        "title": "116",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    -1.622953632783455,
+                    48.12543057447138
+                ],
+                "building": "rennes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.6230207444572533,
+                            48.12534519979651
+                        ],
+                        [
+                            -1.6229496060830222,
+                            48.125390912242466
+                        ],
+                        [
+                            -1.6230140332898715,
+                            48.125435728326515
+                        ],
+                        [
+                            -1.6230878561310518,
+                            48.12539270488659
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "2e8b2498-aed9-5262-ada7-967a6a39f49c",
+                "name": "117",
+                "alias": "117",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "classroom.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#9d5452",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#9d5452",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "classroom",
+                "translations": [
+                    {
+                        "title": "117",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    -1.6230180599903,
+                    48.12539113631302
+                ],
+                "building": "rennes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.623055642527627,
+                            48.12545903267472
+                        ],
+                        [
+                            -1.6229979264881593,
+                            48.125494885497496
+                        ],
+                        [
+                            -1.6229630284177856,
+                            48.12547068484488
+                        ],
+                        [
+                            -1.6230220866907377,
+                            48.125435728326515
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "2d8078ee-e545-55dd-a678-830315320492",
+                "name": "115",
+                "alias": "115",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "room.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#8b72a2",
+                    "fillOpacity": 0.1,
+                    "stroke": true,
+                    "color": "#8b72a2",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "room",
+                "translations": [
+                    {
+                        "title": "115",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    -1.6230096710310775,
+                    48.1254650828359
+                ],
+                "building": "rennes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.623517347134993,
+                            48.1249345620073
+                        ],
+                        [
+                            -1.6233831237873964,
+                            48.12483775827233
+                        ],
+                        [
+                            -1.6231656819643094,
+                            48.12497489684302
+                        ],
+                        [
+                            -1.623299905311886,
+                            48.125069907664226
+                        ],
+                        [
+                            -1.6233388300826928,
+                            48.125048395795574
+                        ],
+                        [
+                            -1.6232529271402332,
+                            48.124987445452135
+                        ],
+                        [
+                            -1.6233280922148774,
+                            48.12494262897696
+                        ],
+                        [
+                            -1.6234032572895423,
+                            48.124992823426524
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "a5778129-5334-521e-8667-7ffaddb042a4",
+                "name": "Restaurant Sodexo",
+                "alias": "restaurant_sodexo",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "restaurant.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#d0b497",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#d0b497",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "restaurant",
+                "translations": [
+                    {
+                        "title": "Restaurant Sodexo",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    -1.6233361456157414,
+                    48.12497355230475
+                ],
+                "building": "rennes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.623758949160639,
+                            48.125235728016065
+                        ],
+                        [
+                            -1.623836798702232,
+                            48.125289507474655
+                        ],
+                        [
+                            -1.623789820530579,
+                            48.125319086152906
+                        ],
+                        [
+                            -1.6237146554559347,
+                            48.125265306725254
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "3f6b4b6b-dbaf-57a7-9420-3240fc3b5632",
+                "name": "Sanitaires gymnase F",
+                "alias": "sanitaires_gymnase_f",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "women_restroom.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#336ab0",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#336ab0",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "women_restroom",
+                "translations": [
+                    {
+                        "title": "Sanitaires gymnase F",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    -1.623775055962346,
+                    48.12527740709222
+                ],
+                "building": "rennes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.6238676700721921,
+                            48.12537376184659
+                        ],
+                        [
+                            -1.6237925049975277,
+                            48.12531998247619
+                        ],
+                        [
+                            -1.623838140935716,
+                            48.12529130012232
+                        ],
+                        [
+                            -1.623913306010361,
+                            48.12534418319987
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "372095db-aa61-512b-9ce3-8467529f64a1",
+                "name": "Sanitaires gymnase H",
+                "alias": "sanitaires_gymnase_h",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "men_restroom.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#336AB0",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#336AB0",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "men_restroom",
+                "translations": [
+                    {
+                        "title": "Sanitaires gymnase H",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    -1.6238529055039492,
+                    48.12533230691124
+                ],
+                "building": "rennes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.624171052093677,
+                            48.12520092632178
+                        ],
+                        [
+                            -1.62395361027059,
+                            48.12533985656879
+                        ],
+                        [
+                            -1.623581811597781,
+                            48.125077233269494
+                        ],
+                        [
+                            -1.6237979111874037,
+                            48.124939198642046
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "19c76652-ee79-5200-aa3c-0ee56e9883e8",
+                "name": "Gymnase Rennes",
+                "alias": "gymnase_rennes",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "gym.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#E2BA49",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#E2BA49",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "gym",
+                "translations": [
+                    {
+                        "title": "Gymnase Rennes",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    -1.6238760962873628,
+                    48.12513930370052
+                ],
+                "building": "rennes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.622899655443957,
+                    48.125492241617984
+                ]
+            },
+            "properties": {
+                "id": "057d4287-2e70-5e12-91d5-b6361662b76e",
+                "name": "Ascenseur R1",
+                "alias": "ascenseur_r1",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "elevator.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#3DC3E0",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#3DC3E0",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "elevator",
+                "translations": [
+                    {
+                        "title": "Ascenseur R1",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    -1.622899655443957,
+                    48.125492241617984
+                ],
+                "building": "rennes"
+            }
+        }
+    ]
+}

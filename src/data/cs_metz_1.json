@@ -1,0 +1,1989 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220513805377578,
+                            49.103679774393584
+                        ],
+                        [
+                            6.220457342492182,
+                            49.10378033720599
+                        ],
+                        [
+                            6.220616409975236,
+                            49.10381809789311
+                        ],
+                        [
+                            6.220643123597512,
+                            49.10376841277241
+                        ],
+                        [
+                            6.220582410817514,
+                            49.103753308486006
+                        ],
+                        [
+                            6.220609124441353,
+                            49.103703225818435
+                        ],
+                        [
+                            6.220513805377578,
+                            49.103679774393584
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1ae512f50324001649e37d",
+                "name": "A114",
+                "alias": "a114",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "computer_room.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#788491",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#788491",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Computer room",
+                "translations": [
+                    {
+                        "title": "A114",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220562288868422,
+                    49.10374041870902
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.2206239869747435,
+                            49.103762961564655
+                        ],
+                        [
+                            6.220644920796076,
+                            49.10376806116949
+                        ],
+                        [
+                            6.220617171312085,
+                            49.10381841973654
+                        ],
+                        [
+                            6.220693117268155,
+                            49.10383594960513
+                        ],
+                        [
+                            6.220763708061384,
+                            49.10370845950766
+                        ],
+                        [
+                            6.22068824893779,
+                            49.10369092959405
+                        ],
+                        [
+                            6.220672670280095,
+                            49.10371770255077
+                        ],
+                        [
+                            6.22065124962549,
+                            49.10371355911809
+                        ],
+                        [
+                            6.2206239869747435,
+                            49.103762961564655
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b15f1f2c16600160ffb32",
+                "name": "A101",
+                "alias": "a101",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "computer_room.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#788491",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#788491",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Computer room",
+                "translations": [
+                    {
+                        "title": "A101",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220664340025618,
+                    49.10375322271234
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220688000641076,
+                            49.103690030076734
+                        ],
+                        [
+                            6.220703049919194,
+                            49.103662810052356
+                        ],
+                        [
+                            6.220779316600925,
+                            49.10368084540812
+                        ],
+                        [
+                            6.220764267322863,
+                            49.10370806542204
+                        ],
+                        [
+                            6.220688000641076,
+                            49.103690030076734
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b16371bd7590016faddf3",
+                "name": "A102",
+                "alias": "a102",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "office.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#706655",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#706655",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Office",
+                "translations": [
+                    {
+                        "title": "A102",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220724527025027,
+                    49.1036863562072
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.22070338400701,
+                            49.1036624819923
+                        ],
+                        [
+                            6.220718433285128,
+                            49.10363509495832
+                        ],
+                        [
+                            6.220794699966859,
+                            49.10365329731803
+                        ],
+                        [
+                            6.220779650688797,
+                            49.10368068434141
+                        ],
+                        [
+                            6.22070338400701,
+                            49.1036624819923
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b1661f50324001649e7c2",
+                "name": "A103",
+                "alias": "a103",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "office.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#706655",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#706655",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Office",
+                "translations": [
+                    {
+                        "title": "A103",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220739910390961,
+                    49.10365880812047
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220718220156215,
+                            49.10363497793588
+                        ],
+                        [
+                            6.220733779962529,
+                            49.10360764094597
+                        ],
+                        [
+                            6.220809412439934,
+                            49.10362582262479
+                        ],
+                        [
+                            6.22079464047232,
+                            49.103652901708614
+                        ],
+                        [
+                            6.220718220156215,
+                            49.10363497793588
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b1696ab55a90016545389",
+                "name": "A104",
+                "alias": "a104",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "office.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#706655",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#706655",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Office",
+                "translations": [
+                    {
+                        "title": "A104",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220754854637443,
+                    49.10363126423023
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220886631855365,
+                            49.10353022326822
+                        ],
+                        [
+                            6.220911194615184,
+                            49.10348632185247
+                        ],
+                        [
+                            6.220994462370953,
+                            49.10350610161623
+                        ],
+                        [
+                            6.220970390866569,
+                            49.10354984220319
+                        ],
+                        [
+                            6.220886631855365,
+                            49.10353022326822
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b16ffab55a9001654538e",
+                "name": "B109-1",
+                "alias": "b109-1",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "office.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#706655",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#706655",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Office",
+                "translations": [
+                    {
+                        "title": "B109-1",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220929862312687,
+                    49.10352054244167
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220911317435025,
+                            49.10348624146093
+                        ],
+                        [
+                            6.220934160801249,
+                            49.10344507379759
+                        ],
+                        [
+                            6.221017182930495,
+                            49.103465014388775
+                        ],
+                        [
+                            6.220994585190795,
+                            49.10350586041332
+                        ],
+                        [
+                            6.220911317435025,
+                            49.10348624146093
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b1725ab55a90016545395",
+                "name": "B109-2",
+                "alias": "b109-2",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "office.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#706655",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#706655",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Office",
+                "translations": [
+                    {
+                        "title": "B109-2",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220953712758518,
+                    49.10347768630431
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220934188752864,
+                            49.10344495924241
+                        ],
+                        [
+                            6.220947570892719,
+                            49.10342037128186
+                        ],
+                        [
+                            6.221031101348245,
+                            49.10344015469951
+                        ],
+                        [
+                            6.221017503367705,
+                            49.103464742649834
+                        ],
+                        [
+                            6.220934188752864,
+                            49.10344495924241
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b1749f50324001649e7d7",
+                "name": "B110",
+                "alias": "b110",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "office.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#706655",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#706655",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Office",
+                "translations": [
+                    {
+                        "title": "B110",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220972910622879,
+                    49.103443037423204
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220947858481679,
+                            49.103420257233694
+                        ],
+                        [
+                            6.2210312039010205,
+                            49.103439876424886
+                        ],
+                        [
+                            6.221068662515847,
+                            49.10337182232195
+                        ],
+                        [
+                            6.220985941407008,
+                            49.1033522031035
+                        ],
+                        [
+                            6.220947858481679,
+                            49.103420257233694
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b17def50324001649e7de",
+                "name": "B101",
+                "alias": "b101",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "technical_room.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#808080",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#808080",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "technical room",
+                "translations": [
+                    {
+                        "title": "B101",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220996304957447,
+                    49.10340088326355
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220986373277469,
+                            49.10335177672877
+                        ],
+                        [
+                            6.221001317578043,
+                            49.10332479186522
+                        ],
+                        [
+                            6.221083993307246,
+                            49.10334451764447
+                        ],
+                        [
+                            6.221068807969061,
+                            49.103371344690856
+                        ],
+                        [
+                            6.220986373277469,
+                            49.10335177672877
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b1816ab55a900165453a3",
+                "name": "B102",
+                "alias": "b102",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "office.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#706655",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#706655",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Office",
+                "translations": [
+                    {
+                        "title": "B102",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.221025373081858,
+                    49.10334884153162
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220961647140143,
+                            49.10331520149251
+                        ],
+                        [
+                            6.220992094537195,
+                            49.10326042834811
+                        ],
+                        [
+                            6.221114432727234,
+                            49.10328952097635
+                        ],
+                        [
+                            6.221084259631709,
+                            49.103344294089254
+                        ],
+                        [
+                            6.220961647140143,
+                            49.10331520149251
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b184b86f20d0016c36edd",
+                "name": "B103",
+                "alias": "b103",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "technical_room.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#808080",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#808080",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "technical room",
+                "translations": [
+                    {
+                        "title": "B103",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.221022816235285,
+                    49.103304929279744
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220871875766846,
+                            49.10323160297082
+                        ],
+                        [
+                            6.220846298964489,
+                            49.10327788450641
+                        ],
+                        [
+                            6.220928713105678,
+                            49.10329742041813
+                        ],
+                        [
+                            6.220924450304494,
+                            49.10330579294927
+                        ],
+                        [
+                            6.2209617498079695,
+                            49.103314630619366
+                        ],
+                        [
+                            6.220991589411511,
+                            49.10326020915119
+                        ],
+                        [
+                            6.220871875766846,
+                            49.10323160297082
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b1885ab55a900165453b2",
+                "name": "B104",
+                "alias": "b104",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "technical_room.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#808080",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#808080",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "technical room",
+                "translations": [
+                    {
+                        "title": "B104",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220913793303977,
+                    49.10327416336943
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220846123696077,
+                            49.10327814868401
+                        ],
+                        [
+                            6.2209280930667035,
+                            49.103297978437496
+                        ],
+                        [
+                            6.220908395000691,
+                            49.10333320049699
+                        ],
+                        [
+                            6.220826849245299,
+                            49.10331378676659
+                        ],
+                        [
+                            6.220846123696077,
+                            49.10327814868401
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b18cbab55a900165453b6",
+                "name": "B105",
+                "alias": "b105",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "office.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#706655",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#706655",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Office",
+                "translations": [
+                    {
+                        "title": "B105",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.22087111694097,
+                    49.10330025261382
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.22082629654949,
+                            49.103313913497885
+                        ],
+                        [
+                            6.220806174869637,
+                            49.103349690224064
+                        ],
+                        [
+                            6.220888567854047,
+                            49.10336924261006
+                        ],
+                        [
+                            6.220908265920059,
+                            49.10333346589755
+                        ],
+                        [
+                            6.22082629654949,
+                            49.103313913497885
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b18ed1bd7590016fade23",
+                "name": "B106",
+                "alias": "b106",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "office.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#706655",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#706655",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Office",
+                "translations": [
+                    {
+                        "title": "B106",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220851120348544,
+                    49.10333604514549
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220785646806519,
+                            49.10338695996123
+                        ],
+                        [
+                            6.220806134961208,
+                            49.10334987552224
+                        ],
+                        [
+                            6.220888328615956,
+                            49.103369127872725
+                        ],
+                        [
+                            6.2208678404612385,
+                            49.10340652790944
+                        ],
+                        [
+                            6.220785646806519,
+                            49.10338695996123
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b1912ab55a900165453bc",
+                "name": "B107",
+                "alias": "b107",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "office.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#706655",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#706655",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Office",
+                "translations": [
+                    {
+                        "title": "B107",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220826719530288,
+                    49.10337989024537
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220785793349336,
+                            49.10338731446092
+                        ],
+                        [
+                            6.220867587340422,
+                            49.103406451018344
+                        ],
+                        [
+                            6.220844743973345,
+                            49.1034484227695
+                        ],
+                        [
+                            6.220762949983055,
+                            49.1034288037944
+                        ],
+                        [
+                            6.220785793349336,
+                            49.10338731446092
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b194eab55a900165453bf",
+                "name": "B108-1",
+                "alias": "b108-1",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "technical_room.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#808080",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#808080",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "technical room",
+                "translations": [
+                    {
+                        "title": "B108-1",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220809373599098,
+                    49.10341166130082
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220742840371798,
+                            49.1034649055286
+                        ],
+                        [
+                            6.220762736207945,
+                            49.103428883809755
+                        ],
+                        [
+                            6.220844284570916,
+                            49.103448341973774
+                        ],
+                        [
+                            6.220824634362856,
+                            49.10348420286704
+                        ],
+                        [
+                            6.220742840371798,
+                            49.1034649055286
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b19bff2c16600160ffb68",
+                "name": "B108-2",
+                "alias": "b108-2",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "technical_room.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#808080",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#808080",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "technical room",
+                "translations": [
+                    {
+                        "title": "B108-2",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220783467177062,
+                    49.10345824794155
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.2206604968210115,
+                            49.10341437105717
+                        ],
+                        [
+                            6.220629959548575,
+                            49.10346910492916
+                        ],
+                        [
+                            6.22070605242439,
+                            49.10348713104176
+                        ],
+                        [
+                            6.220736589696742,
+                            49.1034325610633
+                        ],
+                        [
+                            6.2206604968210115,
+                            49.10341437105717
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b19faf2c16600160ffb6a",
+                "name": "A108",
+                "alias": "a108",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "meeting_room.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#F7A363",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#F7A363",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Meeting room",
+                "translations": [
+                    {
+                        "title": "A108",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220678719062346,
+                    49.10344350782971
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.22062580209888,
+                            49.1036751695342
+                        ],
+                        [
+                            6.220640889524276,
+                            49.10364773168786
+                        ],
+                        [
+                            6.220682463764234,
+                            49.103657609314354
+                        ],
+                        [
+                            6.220667543976674,
+                            49.10368493740373
+                        ],
+                        [
+                            6.22062580209888,
+                            49.1036751695342
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b1a53f50324001649e806",
+                "name": "A115",
+                "alias": "a115",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "restroom_2.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": " #658e4c",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": " #658e4c",
+                    "weight": 5,
+                    "opacity": 0.5
+                },
+                "placeType": "Restroom 2",
+                "translations": [
+                    {
+                        "title": "A115",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220648500292588,
+                    49.10366812349487
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220513208303146,
+                            49.10367961235647
+                        ],
+                        [
+                            6.220528279335269,
+                            49.10365213493816
+                        ],
+                        [
+                            6.220604397589028,
+                            49.103670369954074
+                        ],
+                        [
+                            6.220589326555654,
+                            49.10369759756762
+                        ],
+                        [
+                            6.220513208303146,
+                            49.10367961235647
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b1a86f50324001649e80b",
+                "name": "A113",
+                "alias": "a113",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "office.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#706655",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#706655",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Office",
+                "translations": [
+                    {
+                        "title": "A113",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220549684017248,
+                    49.10367586543456
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220543741780659,
+                            49.10362463259972
+                        ],
+                        [
+                            6.220619868807518,
+                            49.10364272731272
+                        ],
+                        [
+                            6.220604352470843,
+                            49.1036700280946
+                        ],
+                        [
+                            6.220528952772213,
+                            49.103651933391546
+                        ],
+                        [
+                            6.220543741780659,
+                            49.10362463259972
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b1ac4f2c16600160ffb80",
+                "name": "A112",
+                "alias": "a112",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "office.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#706655",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#706655",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Office",
+                "translations": [
+                    {
+                        "title": "A112",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220568131522379,
+                    49.10364279079966
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220543452314558,
+                            49.103624729652125
+                        ],
+                        [
+                            6.2205745754761494,
+                            49.10356987085015
+                        ],
+                        [
+                            6.220650388302147,
+                            49.10358815712436
+                        ],
+                        [
+                            6.220620063171992,
+                            49.103642493441555
+                        ],
+                        [
+                            6.220543452314558,
+                            49.103624729652125
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b1af686f20d0016c36f08",
+                "name": "A111",
+                "alias": "a111",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "office.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#706655",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#706655",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Office",
+                "translations": [
+                    {
+                        "title": "A111",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.2205863863158815,
+                    49.103609996144066
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220602185148493,
+                            49.10351976640038
+                        ],
+                        [
+                            6.220574298490277,
+                            49.10356975221276
+                        ],
+                        [
+                            6.2206501068818625,
+                            49.103587832174526
+                        ],
+                        [
+                            6.220678264284032,
+                            49.10353784638096
+                        ],
+                        [
+                            6.220602185148493,
+                            49.10351976640038
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b1b1d1bd7590016fade44",
+                "name": "A110",
+                "alias": "a110",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "office.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#706655",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#706655",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Office",
+                "translations": [
+                    {
+                        "title": "A110",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220621407990632,
+                    49.1035469927138
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220616856172512,
+                            49.10349276001514
+                        ],
+                        [
+                            6.220630083189519,
+                            49.10346906622203
+                        ],
+                        [
+                            6.22070577112072,
+                            49.103487347728475
+                        ],
+                        [
+                            6.220692911520416,
+                            49.10351068069389
+                        ],
+                        [
+                            6.220616856172512,
+                            49.10349276001514
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b1b5a86f20d0016c36f0e",
+                "name": "A109-1",
+                "alias": "a109-1",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "break_room.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#f6a658",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#f6a658",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Break room",
+                "translations": [
+                    {
+                        "title": "A109-1",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220652495635136,
+                    49.10349052293493
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220616800346505,
+                            49.103492875133554
+                        ],
+                        [
+                            6.2206025511115115,
+                            49.103519544803504
+                        ],
+                        [
+                            6.220678323515415,
+                            49.10353743432711
+                        ],
+                        [
+                            6.220692572751489,
+                            49.103510984170356
+                        ],
+                        [
+                            6.220616800346505,
+                            49.103492875133554
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b1b7f86f20d0016c36f10",
+                "name": "A109-2",
+                "alias": "a109-2",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "office.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#706655",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#706655",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Office",
+                "translations": [
+                    {
+                        "title": "A109-2",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220641409614285,
+                    49.10351074271362
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220733675658238,
+                            49.103607615364325
+                        ],
+                        [
+                            6.22080965773344,
+                            49.10362570443354
+                        ],
+                        [
+                            6.220865545374721,
+                            49.103525392239874
+                        ],
+                        [
+                            6.220789888690518,
+                            49.10350730685843
+                        ],
+                        [
+                            6.220733675658238,
+                            49.103607615364325
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b1bbf86f20d0016c36f13",
+                "name": "A105",
+                "alias": "a105",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "technical_room.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#808080",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#808080",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "technical room",
+                "translations": [
+                    {
+                        "title": "A105",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220786488623031,
+                    49.1035747268521
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220873339168804,
+                            49.10342339342202
+                        ],
+                        [
+                            6.220888613062982,
+                            49.10339593377833
+                        ],
+                        [
+                            6.220932252760122,
+                            49.103406409713756
+                        ],
+                        [
+                            6.220917221308412,
+                            49.10343371062564
+                        ],
+                        [
+                            6.220873339168804,
+                            49.10342339342202
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b1c1af2c16600160ffb9d",
+                "name": "WC_B1h",
+                "alias": "wc_b1h",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "men_restroom.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#336AB0",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#336AB0",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Men's restroom",
+                "translations": [
+                    {
+                        "title": "WC_B1h",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220896953093825,
+                    49.10341656819235
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.220873297177803,
+                            49.10342344040447
+                        ],
+                        [
+                            6.220858209751242,
+                            49.103450878374844
+                        ],
+                        [
+                            6.220901795647791,
+                            49.10346119504766
+                        ],
+                        [
+                            6.220917218350024,
+                            49.103433757082996
+                        ],
+                        [
+                            6.220873297177803,
+                            49.10342344040447
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5f1b1c4d86f20d0016c36f22",
+                "name": "WC_B1f",
+                "alias": "wc_b1f",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "women_restroom.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#336ab0",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#336ab0",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Women's restroom",
+                "translations": [
+                    {
+                        "title": "WC_B1f",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220884763620933,
+                    49.103438542262886
+                ],
+                "building": "metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.220663241970328,
+                    49.10350142839502
+                ]
+            },
+            "properties": {
+                "id": "627135167cd266947fa18b4d",
+                "name": "CopieurChaire",
+                "alias": "copieurchaire",
+                "floor": 1,
+                "isPublished": true,
+                "isSearchable": true,
+                "isVisible": true,
+                "isClickable": true,
+                "style": {
+                    "icon": "printer.svg",
+                    "displayOptions": {
+                        "marker": true,
+                        "title": true,
+                        "polygon": true
+                    },
+                    "fill": true,
+                    "fillColor": "#818a98",
+                    "fillOpacity": 0.2,
+                    "stroke": true,
+                    "color": "#818a98",
+                    "weight": 1,
+                    "opacity": 0.5
+                },
+                "placeType": "Printer",
+                "translations": [
+                    {
+                        "title": "CopieurChaire",
+                        "subtitle": "",
+                        "language": "fr"
+                    }
+                ],
+                "center": [
+                    6.220663241970328,
+                    49.10350142839502
+                ],
+                "building": "metz"
+            }
+        }
+    ]
+}
