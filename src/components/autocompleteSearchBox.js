@@ -294,7 +294,9 @@ import Fuse from "../lib/fuse/fuse.basic.esm.min.js";
     // Draws the selected feature on the map
 
     let floorNumber = features[index].properties.floor; // Get floor number for the selected item
-    resetFloorNumber = campuses[options.place]["floors"].indexOf(floorNumber)
+    let resetFloorNumber = campuses[options.place]["floors"].indexOf(
+      floorNumber.toString()
+    );
     let button = "b" + resetFloorNumber.toString(); // Craft the floor button id
     document.getElementById(button).click();
 
@@ -311,7 +313,7 @@ import Fuse from "../lib/fuse/fuse.basic.esm.min.js";
       opacity: 0.65,
       fill: false,
     };
-    
+
     var link = `${HOST_URL}/?id=${features[index].properties.id}&zoom=20`;
     var copyButtonHtml = `<button class="floorButton copy-button" onclick='
       navigator.clipboard.writeText("${link}")
@@ -323,7 +325,7 @@ import Fuse from "../lib/fuse/fuse.basic.esm.min.js";
       style: drawStyle,
       onEachFeature: function (feature, layer) {
         layer
-          .bindPopup(features[index].properties.popupContent+copyButtonHtml, {
+          .bindPopup(features[index].properties.popupContent + copyButtonHtml, {
             closeOnClick: null,
           })
           .addTo(map)
