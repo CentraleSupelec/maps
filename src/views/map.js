@@ -19,4 +19,8 @@ export const locateMe = () => {
   map.locate({ setView: true, maxZoom: 19 });
 };
 
-export const HOST_URL = "https://maps.centralesupelec.fr";
+export const HOST_URL =
+  window.location.protocol +
+  "//" +
+  window.location.hostname +
+  (window.location.port ? ":" + window.location.port : "");
